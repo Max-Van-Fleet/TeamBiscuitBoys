@@ -1,2 +1,2 @@
 # TeamBiscuitBoys
-Team Biscuit boys
+Ryan Helms, Claire Blackman, Vedika Birla, Max Van Fleet, Will Petty
