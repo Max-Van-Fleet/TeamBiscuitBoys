@@ -8,6 +8,6 @@ Ryan Helms, Claire Blackman, Vedika Birla, Max Van Fleet, Will Petty
 
 [Bi-Weekly Report 3](https://docs.google.com/document/d/1KRBsXno4iWWbn8OLS_iNzHmds_xbIdvV/edit?usp=sharing&ouid=112756382995667930043&rtpof=true&sd=true)
 
-[Bi-Weekly Report 3](https://docs.google.com/document/d/1eKfgrr5jTopsWNjAJpN5fZDXyUqvc93B/edit?usp=sharing&ouid=112756382995667930043&rtpof=true&sd=true)
+[Bi-Weekly Report 4](https://docs.google.com/document/d/1eKfgrr5jTopsWNjAJpN5fZDXyUqvc93B/edit?usp=sharing&ouid=112756382995667930043&rtpof=true&sd=true)
 
 [Project Proposal](projectProposalCorrectedTitle.html)
