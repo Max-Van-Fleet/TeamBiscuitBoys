@@ -3,7 +3,7 @@
 Ryan Helms, Claire Blackman, Vedika Birla, Max Van Fleet, Will Petty
 
 ## Final Paper
-[Final Paper](file:///Users/claireblackman/Desktop/Stor%20565/STOR_565_TeamBiscuitBoys_final_project.pdf)
+[Final Paper](https://drive.google.com/file/d/1W3TfgejREPODCM0iRqXlcBi-AER_UzZO/view?usp=sharing)
 
 ## Weekly Reports
 [Bi-Weekly Report 1](https://docs.google.com/document/d/1bj9kjafBPKPApFSPzOCeqm_9c0OVKJFHQNCJ-XWsw8o/edit?usp=sharing)
